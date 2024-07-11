@@ -6,7 +6,6 @@ To build this project, just do
 ```
 cmake .
 ```
-.
 I recommend using the unix makefile generator for it. 
 And then, just 
 ```
