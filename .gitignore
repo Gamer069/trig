@@ -1,6 +1,8 @@
-cmakefiles
-cmakecache.txt
-makefile
+CMakeFiles
+CMakeCache.txt
+Makefile
 Trig
 cmake_install.cmake
 imgui.ini
+.gitignore
+.gitmodules
