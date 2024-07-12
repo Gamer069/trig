@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Set source files
-file(GLOB SOURCES src/*.cc src/*.cpp)
+file(GLOB SOURCES src/*.cc src/*.h)
 
 # Set cocoa
 set(GLFW_BUILD_COCOA ON)
